@@ -1,2 +1,2 @@
 # MidExamSecondTry
-midExamC#Fundametals the finnal Task
+midExamC#Fundametals the final Task
